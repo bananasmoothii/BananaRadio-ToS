@@ -5,5 +5,6 @@ By using BananaRadio in a Disord guild, you agree that these informations will b
 - The Discord guild name and ID
 - The name and ID of the owner of that guild
 - Each command used with the bot in that guild, including the name of the radios you are listening to and the name of the audio channel where they are played.
+- The settings that where applied to a guild by an administrator of that guild (obviously)
 
 Everything else, including normal text message content, is not saved.
