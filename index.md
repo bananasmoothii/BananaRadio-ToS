@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# BananaRadio Terms of services
 
-You can use the [editor on GitHub](https://github.com/bananasmoothii/BananaRadio-ToS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Important**: For anything concerning the shop (the Patreon page) and subscriptions, please refer to https://www.patreon.com/policy/legal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. I may not be considered as responsible for the content of any radio, nor the links you can find in it, nor for the radio entries themselves that you can find while using BananaRadio as they all come from the [radio-browser](https://radio-browser.info) website, or from a direct stream provided by the owner of these radios. Consider that I am not the owner of any radio nor any music you can listen to, and in case of a copyright problem, please refer to the owner of the radio you where listening to (link to their webpage is usually provided when clicking on a radio title in blue).
+2. Any recording recording of the audio stream forwarded by BananaRadio is prohibited as the music you can listen to in these stream or protected by copyrights.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bananasmoothii/BananaRadio-ToS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact: [mail](mailto:bananabubble@gmail.com) / [Discord](https://discord.gg/k4XmnPgFJP)
